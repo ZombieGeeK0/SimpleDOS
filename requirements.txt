@@ -1,1 +1,3 @@
-
+socket
+datetime
+colorama
