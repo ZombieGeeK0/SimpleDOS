@@ -7,7 +7,7 @@ class color:
 
 date = hora = datetime.datetime.now() 
 hostname = socket.gethostname()
-ip = socket.gethostbyname(hostname)
+ipv4 = socket.gethostbyname(hostname)
 
 def clear():
   if os.name == "nt":
@@ -21,7 +21,7 @@ def menu():
 ██████╗ ██████╗  ██████╗ ███████╗  [-] Copyright ©2024 By ZombieGeek0
 ██╔══██╗██╔══██╗██╔═══██╗██╔════╝  [-] GitHub: https://www.github.com/ZombieGeek0/SimpleDDOS
 ██║  ██║██║  ██║██║   ██║███████╗  [-] Hostname: {hostname}
-██║  ██║██║  ██║██║   ██║╚════██║  [-] IP: {ip}
+██║  ██║██║  ██║██║   ██║╚════██║  [-] IP: {ipv4}
 ██████╔╝██████╔╝╚██████╔╝███████║  [-] Date: {date}
 ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝                                 
 '''
