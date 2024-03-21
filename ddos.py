@@ -47,3 +47,5 @@ def menu():
     
     clear()
     input("\n[-] Press the ENTER key to exit: ")
+
+menu()
