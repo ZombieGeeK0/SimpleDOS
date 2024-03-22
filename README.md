@@ -3,6 +3,7 @@
 `[-]` Linux:
 
     sudo apt update -y && git clone https://github.com/ZombieGeeK0/SimpleDOS && cd SimpleDOS && chmod +x install.sh && chmod 777 install.sh && sudo bash install.sh
+    python3 dos.py
 `[-]` Windows:
 
 - Descarga el archivo `.zip`
