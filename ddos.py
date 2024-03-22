@@ -47,5 +47,7 @@ def menu():
                 port = 1
                 
     except KeyboardInterrupt:
+       print(f'\n[-] Ataque detenido a la IP {ip} por el puerto {port} a las {date}\n')
+       print(color.RESET)
 
 menu()
