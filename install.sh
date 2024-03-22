@@ -28,7 +28,7 @@ function install() {
    
    echo -e "\033[32m\n[-] Instalando requerimientos..."
    pip3 install -r requirements.txt
-   echo -e "\n[-] Utiliza el comando python3 ddos.py para iniciar el programa."
+   echo -e "\n[-] Utiliza el comando python3 dos.py para iniciar el programa."
 }
 
 install
