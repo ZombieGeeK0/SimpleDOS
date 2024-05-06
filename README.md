@@ -13,6 +13,10 @@
 
 <hr>
 
+![imagen](https://github.com/ZombieGeeK0/SimpleDOS/assets/158185295/bafd70c9-b1aa-4788-a515-63cb9ee050a1)
+
+<hr>
+
 `[ 📬 ]` Contacta conmigo a través de `Discord` mandando una invitación a `qwfkr.`
 
     qwfkr
